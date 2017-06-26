@@ -1,6 +1,6 @@
 # Partículas JS
 
-# Desarrollada a partir de la librería: PARTICLES.JS
+# Ejemplo desarrollado a partir de la librería: PARTICLES.JS
 
 [librería particles.js](http://vincentgarreau.com/particles.js/)
 
@@ -18,6 +18,8 @@ Algunos tutoriales para trabajar con esta librera:
 
 -[TUTO UNO](https://www.html5andbeyond.com/creating-animated-backgrounds-with-particles-js/)  
 -[TUTO DE FALCON MASTER](https://www.youtube.com/watch?v=lTeS8Xv3ymA)
+
+
 
 
 
