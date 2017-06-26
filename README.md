@@ -14,7 +14,7 @@ http://vincentgarreau.com/particles.js/
 CodePen demo: 
 http://codepen.io/VincentGarreau/pen/pnlso
 
-Algunos tutoriales para trabajar con esta librera:
+Algunos tutoriales para trabajar con esta librería de Javacript:
 
 -[TUTO UNO](https://www.html5andbeyond.com/creating-animated-backgrounds-with-particles-js/)  
 -[TUTO DE FALCON MASTER](https://www.youtube.com/watch?v=lTeS8Xv3ymA)
